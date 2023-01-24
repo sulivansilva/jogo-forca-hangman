@@ -1,0 +1,1 @@
+lista_palavras = ["cebola", "casa", "atleta", "helicoptero", "chinelo", "futebol", "cavalo", "martelo", "toalha", "salsicha", "relampago", "nuvem", "caderno"]
